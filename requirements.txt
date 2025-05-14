@@ -5,3 +5,8 @@ uvicorn
 arxiv
 autogen==0.7.0
 autogenstudio==0.4.0.1
+autogen-core
+autogen-agentchat
+autogen-ext[openai]
+autogen-ext[azure]
+
